@@ -347,7 +347,7 @@ One of the greatest books on software engineering.
 GitHub Portfolio
 
 2026
-├── Snake
+├── Snake - https://www.youtube.com/watch?v=uyhzCBEGaBY
 ├── Flappy Bird
 ├── Breakout
 ├── Solar System
@@ -413,6 +413,24 @@ The Coding Train（游戏循环）
 
 📖 Explore
 为什么游戏都是一帧一帧运行的？
+
+GameStudio
+
+Snake
+
+FlappyBird
+
+Breakout
+
+Tetris
+
+Minecraft2D
+
+TowerDefense
+
+Platformer
+
+Final Game
 ```
 
 这样孩子每次打开 Mission，不会面对一堆课程，而是**知道今天要做什么、看什么、如果有兴趣还能继续探索什么**。
